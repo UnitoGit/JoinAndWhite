@@ -1,0 +1,8 @@
+messages:
+  JoinMessage: '§aЗашёл на сервер!'
+  NoHasPermission: 'Вы не имеете право использовать данную команду!'
+  UnknownCommand: "Данная команда неизвестна : "
+  RandomMessages: [""]
+
+isRandomMessages : false
+#Идёт работа над isRandomMessages

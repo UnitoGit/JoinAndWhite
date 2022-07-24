@@ -1,0 +1,8 @@
+name: JoinAndWhite
+version: '${project.version}'
+main: org.unito.mc.joinandwhite.JoinAndWhite
+api-version: 1.16
+authors: [ Unito ]
+description: See who Join and leave on you server
+commands :
+  JaW: {}
